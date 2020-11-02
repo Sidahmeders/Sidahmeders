@@ -46,14 +46,14 @@
 <br />
 <br />
 <br />
-<br />
-<br />
 
-## Interested in Ethical Hacking...
+### Interested in Ethical Hacking
 
-- pin Testing
-- Cross Site Scripting
-- Session Hijacking
-- SQL injection
+# pin Testing
+# Cross Site Scripting
+# Session Hijacking
+# SQL injection
+
+## and looking forward into machine learning and IA..
 
 -->
