@@ -33,7 +33,7 @@
 <br />
 <br />
 
-### currently learing 
+### Currently learing
 
 <img align="left" alt="python" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="python" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
@@ -49,14 +49,11 @@
 <br />
 <br />
 
-## Here are some ideas to get you started:
+## Interested in Ethical Hacking...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- pin Testing
+- Cross Site Scripting
+- Session Hijacking
+- SQL injection
+
 -->
