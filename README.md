@@ -42,6 +42,8 @@
 <img align="left" alt="dart" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
 <img align="left" alt="flutter" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
 <img align="left" alt="flutter" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img align="left" alt="flutter" width="56px" src="https://nitayneeman.com/images/thumbnails/puppeteer.jpg" />
+<img align="left" alt="flutter" width="56px" src="https://pbs.twimg.com/profile_images/821713465245102080/mMtKIMax.jpg" />
 
 <br />
 <br />
