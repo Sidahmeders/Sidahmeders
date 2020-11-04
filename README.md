@@ -44,7 +44,8 @@
 <img align="left" alt="flutter" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="flutter" width="56px" src="https://nitayneeman.com/images/thumbnails/puppeteer.jpg" />
 <img align="left" alt="flutter" width="56px" src="https://pbs.twimg.com/profile_images/821713465245102080/mMtKIMax.jpg" />
-
+<img align="left" alt="docker" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+<img align="left" alt="kubernetes" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
 <br />
 <br />
 <br />
