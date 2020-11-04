@@ -54,7 +54,7 @@
 
 ### Interested in Ethical Hacking
 
-- pin Testing
+- Pin Testing
 - Cross Site Scripting
 - Session Hijacking
 - SQL injection
