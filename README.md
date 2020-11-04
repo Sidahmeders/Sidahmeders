@@ -59,6 +59,4 @@
 - Session Hijacking
 - SQL injection
 
-## and looking forward into machine learning and IA..
-
 -->
