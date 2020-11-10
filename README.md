@@ -47,7 +47,7 @@
 <img align="left" alt="flutter" width="56px" src="https://pbs.twimg.com/profile_images/821713465245102080/mMtKIMax.jpg" />
 <img align="left" alt="docker" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="kubernetes" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
-<img align="left" alt="D3js" width="56px" src="https://miro.medium.com/max/2760/1*Iz5gpsTnVqRzuN9pEGj8iA.png" />
+<img align="left" alt="D3js" width="56px" src="https://miro.medium.com/max/2000/1*EjXUataOq1G0j7Y2hgRr2g.png" />
 <img align="left" alt="chartjs" width="56px" src="https://www.chartjs.org/media/logo-title.svg" />
 <br />
 <br />
