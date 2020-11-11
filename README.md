@@ -18,10 +18,6 @@
 <img align="left" alt="flutter" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 
 <br />
-<br />
-<br />
-<br />
-<br />
 
 ### ~~~
 
@@ -38,9 +34,6 @@
 
 <br />
 <br />
-<br />
-<br />
-<br />
 
 ### Currently learing
 
@@ -54,8 +47,7 @@
 <img align="left" alt="kubernetes" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
 <img align="left" alt="D3js" width="56px" src="https://jessecolligan.com/images/d3_logo.jpg" />
 <img align="left" alt="chartjs" width="56px" src="https://www.chartjs.org/media/logo-title.svg" />
-<br />
-<br />
+
 <br />
 <br />
 <br />
