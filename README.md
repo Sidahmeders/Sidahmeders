@@ -17,6 +17,12 @@
 <img align="left" alt="webpack" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" />
 <img align="left" alt="flutter" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 
+<br />
+<br />
+<br />
+<br />
+<br />
+
 ### ~~~
 
 <img align="left" alt="Node.js" width="56px" src="https://usefulangle.com/img/thumb/nodejs.png" />
@@ -30,11 +36,16 @@
 <img align="left" alt="nextjs" width="56px" src="https://www.honext.io/static/images/next_logo.png" />
 <img align="left" alt="Express" width="56px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/express/express.png" />
 
+<br />
+<br />
+<br />
+<br />
+<br />
+
 ### Currently learing
 
 <img align="left" alt="python" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="python" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
-
 <img align="left" alt="dart" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
 <img align="left" alt="flutter" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
 <img align="left" alt="flutter" width="56px" src="https://nitayneeman.com/images/thumbnails/puppeteer.jpg" />
