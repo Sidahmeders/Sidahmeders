@@ -36,6 +36,7 @@
 <br />
 <br />
 <br />
+<br />
 
 ### Currently learing
 
@@ -50,6 +51,7 @@
 <img align="left" alt="D3js" width="56px" src="https://jessecolligan.com/images/d3_logo.jpg" />
 <img align="left" alt="chartjs" width="56px" src="https://www.chartjs.org/media/logo-title.svg" />
 
+<br />
 <br />
 <br />
 <br />
