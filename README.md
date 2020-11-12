@@ -50,6 +50,8 @@
 <img align="left" alt="kubernetes" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
 <img align="left" alt="D3js" width="56px" src="https://jessecolligan.com/images/d3_logo.jpg" />
 <img align="left" alt="chartjs" width="56px" src="https://www.chartjs.org/media/logo-title.svg" />
+<img align="left" alt="github actions" width="56px" src="https://raw.githubusercontent.com/github/explore/2c7e603b797535e5ad8b4beb575ab3b7354666e1/topics/actions/actions.png" />
+
 
 <br />
 <br />
