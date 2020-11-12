@@ -16,6 +16,7 @@
 <img align="left" alt="GraphQL" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="webpack" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" />
 <img align="left" alt="flutter" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img align="left" alt="chartjs" width="56px" src="https://www.chartjs.org/media/logo-title.svg" />
 
 <br />
 <br />
@@ -32,6 +33,7 @@
 <img align="left" alt="linux" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />
 <img align="left" alt="nextjs" width="56px" src="https://www.honext.io/static/images/next_logo.png" />
 <img align="left" alt="Express" width="56px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/express/express.png" />
+<img align="left" alt="jest" width="56px" src="https://pbs.twimg.com/profile_images/821713465245102080/mMtKIMax.jpg" />
 
 <br />
 <br />
@@ -44,12 +46,11 @@
 <img align="left" alt="python" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 <img align="left" alt="dart" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
 <img align="left" alt="flutter" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
-<img align="left" alt="flutter" width="56px" src="https://nitayneeman.com/images/thumbnails/puppeteer.jpg" />
-<img align="left" alt="flutter" width="56px" src="https://pbs.twimg.com/profile_images/821713465245102080/mMtKIMax.jpg" />
+<img align="left" alt="puppeteer" width="56px" src="https://nitayneeman.com/images/thumbnails/puppeteer.jpg" />
 <img align="left" alt="docker" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="kubernetes" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
 <img align="left" alt="D3js" width="56px" src="https://jessecolligan.com/images/d3_logo.jpg" />
-<img align="left" alt="chartjs" width="56px" src="https://www.chartjs.org/media/logo-title.svg" />
+
 <img align="left" alt="github actions" width="56px" src="https://raw.githubusercontent.com/github/explore/2c7e603b797535e5ad8b4beb575ab3b7354666e1/topics/actions/actions.png" />
 
 
