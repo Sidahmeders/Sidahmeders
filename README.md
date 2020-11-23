@@ -59,11 +59,5 @@
 <br />
 <br />
 
-### Interested in Ethical Hacking
-
-- Pin Testing
-- Cross Site Scripting
-- Session Hijacking
-- SQL injection
-
+### hhhhhhh
 -->
