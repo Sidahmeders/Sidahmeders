@@ -42,6 +42,7 @@
 <img align="left" alt="chartjs" width="56px" src="https://www.chartjs.org/media/logo-title.svg" />
 <img align="left" alt="jest" width="56px" src="https://pbs.twimg.com/profile_images/821713465245102080/mMtKIMax.jpg" />
 <img align="left" alt="NGINX" width="56px" src="https://raw.githubusercontent.com/github/explore/2c7e603b797535e5ad8b4beb575ab3b7354666e1/topics/nginx/nginx.png" />
+<img align="left" alt="redux" width="56px" src="https://raw.githubusercontent.com/github/explore/2c7e603b797535e5ad8b4beb575ab3b7354666e1/topics/redux/redux.png" />
 
 <br />
 <br />
