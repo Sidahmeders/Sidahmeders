@@ -66,6 +66,4 @@
 <br />
 <br />
 
-### why I am the best fit for any comany
-#### well ?? cuz i can take your money and give no feedback whatsoever
 -->
