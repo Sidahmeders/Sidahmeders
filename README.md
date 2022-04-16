@@ -6,14 +6,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sidahmeders&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-# Contributions
-<h4 align="center">Isometric view of contributions in the last year. Languages pie is based on recent commits</h4>
-<p align="center">
-	<a href="./profile-3d-contrib/profile-night-green.svg">
-		<img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
-	</a>
-</p>
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -76,4 +68,8 @@
 <br />
 <br />
 
+# Metrics
+<p align="center">
+	<img width="625em" src="https://github.com/formidablae/formidablae/blob/main/github-metrics.svg" />
+</p>
 -->
