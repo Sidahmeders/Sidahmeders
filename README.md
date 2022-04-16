@@ -70,6 +70,6 @@
 
 # Metrics
 <p align="center">
-	<img width="625em" src="https://github.com/formidablae/formidablae/blob/main/github-metrics.svg" />
+	<img width="625em" src="https:/Sidahmeders/Sidahmeders/github.com//blob/main/github-metrics.svg" />
 </p>
 -->
