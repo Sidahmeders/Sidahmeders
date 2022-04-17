@@ -36,7 +36,7 @@
 <img align="left" alt="Node.js" width="56px" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" />
 <img align="left" alt="SQL" width="56px" src="https://cdn-icons-png.flaticon.com/512/603/603156.png" />
 <img align="left" alt="MySQL" width="56px" src="https://www.pngplay.com/wp-content/uploads/7/Mysql-Logo-PNG-Free-File-Download.png" />
-<img align="left" alt="MongoDB" width="56px" src="https://www.servernoobs.com/wp-content/uploads/2016/01/mongodb-logo-1.png" />
+<img align="left" alt="MongoDB" width="56px" src="https://smartmindsteam.com/wp-content/uploads/2021/07/mon.png" />
 <img align="left" alt="Git" width="56px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
 <img align="left" alt="GitHub" width="56px" src="https://pngimg.com/uploads/github/github_PNG72.png" />
 <img align="left" alt="Terminal" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
@@ -66,7 +66,6 @@
 <img align="left" alt="flutter" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
 
 <img align="left" alt="docker" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="left" alt="kubernetes" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
 <img align="left" alt="github actions" width="56px" src="https://avatars.githubusercontent.com/u/54465427?v=4" />
 
 
