@@ -1,4 +1,11 @@
-### Hi, My name Is Ahmed Boutaraa - software engineer & a full-stack web developer.
+<h3 align="center">
+	Hello and welcome :smile:
+</h3>
+
+<h4 align="center">
+	Head <a href="https://github.com/Sidahmeders/Sidahmeders/discussions/1">over here</a> to engage, share, ask questions and collaborate together!
+</h4>
+<hr>
 
 [![Website](https://img.shields.io/website?label=sidahmed.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://ahmed-boutaraa.netlify.app/#projects)
 
