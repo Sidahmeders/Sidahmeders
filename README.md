@@ -51,7 +51,7 @@
 <img align="left" alt="chartjs" width="56px" src="https://www.chartjs.org/media/logo-title.svg" />
 <img align="left" alt="jest" width="56px" src="https://pbs.twimg.com/profile_images/821713465245102080/mMtKIMax.jpg" />
 <img align="left" alt="NGINX" width="56px" src="https://raw.githubusercontent.com/github/explore/2c7e603b797535e5ad8b4beb575ab3b7354666e1/topics/nginx/nginx.png" />
-<img align="left" alt="redux" width="56px" src="https://infiniteblogs.blob.core.windows.net/medias/f486812a-1c7f-4802-ab9d-4c709f0f1bb7_0.png" />
+<img align="left" alt="redux" width="56px" src="https://miro.medium.com/max/1400/0*U2DmhXYumRyXH6X1.png" />
 
 <br />
 <br />
