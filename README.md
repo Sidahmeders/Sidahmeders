@@ -47,9 +47,9 @@
 
 ### ~~~
 
-<img align="left" alt="D3js" width="56px" src="https://jessecolligan.com/images/d3_logo.jpg" />
-<img align="left" alt="chartjs" width="56px" src="https://www.chartjs.org/media/logo-title.svg" />
-<img align="left" alt="jest" width="56px" src="https://pbs.twimg.com/profile_images/821713465245102080/mMtKIMax.jpg" />
+<img align="left" alt="D3js" width="56px" src="https://raw.githubusercontent.com/d3/d3-logo/master/d3.png" />
+<img align="left" alt="chartjs" width="56px" src="https://scicoding.com/content/images/2021/09/chartjs-logo-1.svg" />
+<img align="left" alt="jest" width="56px" src="https://user-images.githubusercontent.com/10525473/50372432-95dcd880-0611-11e9-9432-58de9be26b3b.png" />
 <img align="left" alt="NGINX" width="56px" src="https://raw.githubusercontent.com/github/explore/2c7e603b797535e5ad8b4beb575ab3b7354666e1/topics/nginx/nginx.png" />
 <img align="left" alt="redux" width="56px" src="https://miro.medium.com/max/1400/0*U2DmhXYumRyXH6X1.png" />
 
