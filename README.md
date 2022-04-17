@@ -33,7 +33,7 @@
 
 ### ~~~
 
-<img align="left" alt="Node.js" width="56px" src="https://usefulangle.com/img/thumb/nodejs.png" />
+<img align="left" alt="Node.js" width="56px" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" />
 <img align="left" alt="SQL" width="56px" src="https://cdn-icons-png.flaticon.com/512/603/603156.png" />
 <img align="left" alt="MySQL" width="56px" src="https://sqlbackupandftp.com/blog/wp-content/uploads/2015/01/mysql-logo_2800x2800_pixels1.png" />
 <img align="left" alt="MongoDB" width="56px" src="https://miro.medium.com/max/400/0*sd93nd2cG3k22AXc.png" />
@@ -51,7 +51,7 @@
 <img align="left" alt="chartjs" width="56px" src="https://www.chartjs.org/media/logo-title.svg" />
 <img align="left" alt="jest" width="56px" src="https://pbs.twimg.com/profile_images/821713465245102080/mMtKIMax.jpg" />
 <img align="left" alt="NGINX" width="56px" src="https://raw.githubusercontent.com/github/explore/2c7e603b797535e5ad8b4beb575ab3b7354666e1/topics/nginx/nginx.png" />
-<img align="left" alt="redux" width="56px" src="https://raw.githubusercontent.com/github/explore/2c7e603b797535e5ad8b4beb575ab3b7354666e1/topics/redux/redux.png" />
+<img align="left" alt="redux" width="56px" src="https://infiniteblogs.blob.core.windows.net/medias/f486812a-1c7f-4802-ab9d-4c709f0f1bb7_0.png" />
 
 <br />
 <br />
@@ -61,7 +61,7 @@
 ### touched on
 
 <img align="left" alt="python" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="python" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
+<img align="left" alt="django" width="56px" src="https://icon-library.com/images/django-icon/django-icon-0.jpg" />
 <img align="left" alt="dart" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
 <img align="left" alt="flutter" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
 <img align="left" alt="puppeteer" width="56px" src="https://nitayneeman.com/images/thumbnails/puppeteer.jpg" />
