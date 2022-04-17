@@ -62,7 +62,7 @@
 
 <img align="left" alt="python" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="django" width="56px" src="https://icon-library.com/images/django-icon/django-icon-0.jpg" />
-<img align="left" alt="java" width="56px" src="http://assets.stickpng.com/thumbs/58480979cef1014c0b5e4901.png" />
+<img align="left" alt="java" width="56px" src="https://plumbr.io/app/uploads/2019/06/java.png" />
 <img align="left" alt="dart" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
 <img align="left" alt="flutter" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
 
