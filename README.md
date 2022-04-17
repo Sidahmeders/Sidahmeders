@@ -1,5 +1,5 @@
 <h3 align="center">
-	Hello and welcome :smile:
+	Hello and welcome 🙂
 </h3>
 
 <h4 align="center">
